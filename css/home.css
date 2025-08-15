@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +12,6 @@ body {
   color: #333;
 }
 
-/* Navigation */
 .site-header {
   background: #222;
   color: #fff;
@@ -49,7 +48,6 @@ body {
   text-decoration: underline;
 }
 
-/* Hero Section */
 .hero {
   text-align: center;
   padding: 80px 20px;
@@ -80,7 +78,7 @@ body {
   background: #eee;
 }
 
-/* About Section */
+
 .about {
   max-width: 800px;
   margin: 40px auto;
@@ -93,7 +91,7 @@ body {
   font-size: 1.8rem;
 }
 
-/* Footer */
+
 .site-footer {
   background: #222;
   color: #fff;
